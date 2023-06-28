@@ -4,7 +4,7 @@ This project was completed as an assignment under Prof. Keerti Choudhary and Pro
 
 ## Description
 
-PassageProcessor is a Java program that implements a 2-3-4 tree data structure to process a paragraph and find various textual information related to it. The program provides functionalities to store and perform various operations on the stored data, such as finding the word with maximum frequency between 2 words and finding the cumulative frequency of words in the paassage between 2 words.
+PassageProcessor is a Java program that implements a 2-3-4 tree data structure to process a paragraph and find various textual information related to it. The program provides functionalities to store and perform various operations on the passage.
 
 The program consists of two classes:
 
